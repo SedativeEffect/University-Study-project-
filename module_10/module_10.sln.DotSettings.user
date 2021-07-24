@@ -1,0 +1,25 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5fa1d961_002D3c4b_002D4e90_002D8d04_002D6ce06247fa1e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetAllHomeworks_Return_Homeworks" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E153604B-DF0B-485D-B1A3-A3794D367F91::net5.0::module_10_BLL.IntegrationTests.HomeworkControllerTests.GetAllHomeworks_Return_Homeworks&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E153604B-DF0B-485D-B1A3-A3794D367F91::net5.0::module_10_BLL.IntegrationTests.HomeworkControllerTests.GetHomework_Return_Homework&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=72465514_002D3d89_002D4ab1_002D990e_002D34de76677b99/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="HomeworkControllerTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E153604B-DF0B-485D-B1A3-A3794D367F91::net5.0::module_10_BLL.IntegrationTests.HomeworkControllerTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b7f68f13_002De85f_002D4137_002D97c1_002D74f9714c10e2/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;module_10.BLL.Tests&amp;gt;" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;Project Location="D:\Projects\M0\ConsoleApplication\module_10\module_10.BLL.Tests" Presentation="&amp;lt;module_10.BLL.Tests&amp;gt;" /&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::E153604B-DF0B-485D-B1A3-A3794D367F91::net5.0::module_10_BLL.IntegrationTests.HomeworkServiceTests&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	
+	
+	
+	
+	<s:Boolean x:Key="/Default/UserDictionary/Words/=lector/@EntryIndexedValue">True</s:Boolean></wpf:ResourceDictionary>
